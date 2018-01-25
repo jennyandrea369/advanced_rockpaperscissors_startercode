@@ -1,1 +1,10 @@
-
+body { background-color: lightblue}
+h1 { text-align: center;font-size: 60px;}
+div { font-family: "Brush Script MT";
+    font-size: 30px;
+}
+#img{ width: 400px; 
+float:right;}
+#name{ float:left;}
+#submit-name{float:left;}
+#img{float: right:};

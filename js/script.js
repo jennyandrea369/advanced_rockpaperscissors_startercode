@@ -27,4 +27,16 @@
 
 
 // DOCUMENT READY FUNCTION
-
+$(document).ready(function(){
+$("#submit-name").click(function(){
+    var a= $("#name").val();
+    $("#greeting").text(a);
+    });
+    $(document).ready(function(){
+    $("#submit-name").click(function(){
+        var random = Math.floor(Math.random() *5) + 1;
+        
+        
+    });
+});
+});
